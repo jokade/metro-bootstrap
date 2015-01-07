@@ -27,3 +27,6 @@ node_modules
 app/bower_components
 app/bootstrap
 nuget/*
+
+dist/
+docs/
